@@ -10,7 +10,7 @@ This project demonstrates scientific data organization, table manipulation, and 
 
 ## 🚀 Features
 
-- Periodic Table Structure upto 20
+- Periodic Table Structure upto 40
 - Organized Element Data
 - Atomic Number Representation
 - Mass Number & Symbol Display
